@@ -99,7 +99,7 @@ McG13hiz_model = {
             'N0':0.33 * 1.1,
             'brange':(10.,100.),
             'bsig':24.0},
-     'LLS':{'zrange':(1.5,10.1),
+     'LLS':{'zrange':(0.0,10.1),
             'logNHrange':(17.2,20.3),
             'gamma':2.0,
             'beta':1.3,
