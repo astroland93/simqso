@@ -77,6 +77,14 @@ WP11_model = {
 }
 
 McG13hiz_model = {
+ 'forest0':{'zrange':(0.0,1.5),
+            'logNHrange':(12.0,17.2),
+            'gamma':0.2,
+            'beta':1.55,
+            'B':0.0170,
+            'N0':340.,
+            'brange':(10.,100.),
+            'bsig':24.0},
  'forest1':{'zrange':(1.5,10.1),
             'logNHrange':(12.0,14.5),
             'gamma':3.5,
